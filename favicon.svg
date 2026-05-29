@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="PY">
+  <rect width="64" height="64" rx="14" fill="#1E3A5F"/>
+  <circle cx="48" cy="16" r="6" fill="#E8630A"/>
+  <text x="32" y="39" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#F8FAFC">PY</text>
+</svg>
